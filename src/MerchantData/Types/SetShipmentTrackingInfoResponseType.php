@@ -32,6 +32,7 @@ class SetShipmentTrackingInfoResponseType extends \DTS\eBaySDK\MerchantData\Type
             'attribute' => false,
             'elementName' => 'OrderID'
         ]
+        //Set Order ID property
     ];
 
     /**
